@@ -75,7 +75,7 @@ oci -v
 1. Execute o comando de configuração.
 
 ```
-oci session authenticate --region us-ashburn-1
+oci session authenticate --region sa-saopaulo-1
 ```
 
 2. Exporte o token de autenticação.
