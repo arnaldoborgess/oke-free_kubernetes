@@ -17,13 +17,13 @@ IMPORTANTE:
 ### Variáveis de ambiente personalizadas para o lab
 
 ```
-region = us-ashburn-1
+region = sa-saopaulo-1
 
 shape = VM.Standard.E3.Flex
 
 memory_in_gbs_per_node = 1
 
-image_id = ocid1.image.oc1.iad.aaaaaaaazi34xyxv6og7qgn3nqvaykfvg5ntkkx7yhlkjzpn4z45l72l53wa
+image_id = ocid1.image.oc1.sa-saopaulo-1.aaaaaaaaen5tmigeuccvhcon6saps4aty3l3yh4fhipwyys2q2o2jecl25ya
 
 node_size = 1
 ```
