@@ -23,7 +23,9 @@ shape = VM.Standard.E3.Flex
 
 memory_in_gbs_per_node = 1
 
-image_id = ocid1.image.oc1.sa-saopaulo-1.aaaaaaaaen5tmigeuccvhcon6saps4aty3l3yh4fhipwyys2q2o2jecl25ya
+# https://docs.cloud.oracle.com/iaas/images/
+Oracle-Linux-8.8-aarch64-2023.09.26-0-OKE-1.28.2-653
+image_id = ocid1.image.oc1.sa-saopaulo-1.aaaaaaaapgzqgavyhfqp2424z6cuuvztfxgqncii3j6hzrpe2vlpb6vbalsq
 
 node_size = 1
 ```
